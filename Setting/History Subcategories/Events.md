@@ -1,7 +1,7 @@
 in: [[History]]
 #Category 
 
-All the events that have happened in [[Story Name]]
+All the events that have happened in [[The Story]]
 
 ![[Battles]]
 

@@ -1,7 +1,7 @@
 in: [[World]]
 #Category
 
-This category contains all characters in [[Setting]]
+This category contains all characters in [[Articles/The Sectors|The Sectors]]
 
 ![[Antagonists]]
 

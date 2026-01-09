@@ -1,4 +1,4 @@
 in: [[Backstory Introduction]], [[Organizations]]
 #Category
 
-This category sorts characters by the backstory they were from
+This category sorts groups by the backstory they were from

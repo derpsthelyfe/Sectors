@@ -1,4 +1,4 @@
 in: [[Characters]]
 #Category 
 
-Lists of characters, sorted by locations they have resided in.
+This category sorts characters by locations they have resided in.

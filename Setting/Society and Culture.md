@@ -2,7 +2,7 @@ in: [[World]]
 
 #Category 
 
-Society and Culture in [[Setting]]
+Society and Culture in [[Articles/The Sectors|The Sectors]]
 
 ![[Abilities]]
 

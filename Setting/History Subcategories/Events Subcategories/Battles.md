@@ -1,4 +1,4 @@
 in: [[Events]]
 #Category 
 
-All the battles that have happened in [[Story Name]].
+All the battles that have happened in [[The Story]].

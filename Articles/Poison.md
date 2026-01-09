@@ -6,6 +6,6 @@ Poison is a general term that refers to natural substances and chemical weapons 
 # Antidotes
 ## Other treatments
 
-# Poison in [[Setting]]
+# Poison in [[Articles/The Sectors]]
 ## Poison-Weapon Users
 ## Natural Poison Sources

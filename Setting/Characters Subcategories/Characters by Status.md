@@ -6,3 +6,5 @@ This category sorts characters by status.
 ![[Deceased Characters]]
 
 ![[Mentioned Only Characters]]
+
+![[Questionable Canonicity]]

@@ -1,6 +1,6 @@
 in: [[Biology]]
 
-This category contains various substances from [[Setting]]
+This category contains various substances from [[Articles/The Sectors]]
 
 ![[Chemicals]]
 

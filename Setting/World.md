@@ -1,6 +1,6 @@
 #Category 
 
-This is the categories of the general concepts of [[Setting]]
+This is the categories of the general concepts of [[Articles/The Sectors|The Sectors]]
 
 
 

@@ -1,5 +1,5 @@
 #Category 
 
-This category contains the various races of [[Setting]]
+This category contains the various races of [[Articles/The Sectors]]
 
 * [[Articles/Humans]]

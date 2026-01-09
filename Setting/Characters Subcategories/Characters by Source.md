@@ -7,5 +7,7 @@ This category sorts "special" characters by their source.
 
 ![[Joke Characters]]
 
+![[PCS]]
+
 ![[PC Made characters]]
 

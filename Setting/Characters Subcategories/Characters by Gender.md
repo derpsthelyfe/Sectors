@@ -1,7 +1,7 @@
 in: [[Characters]]
 #Category 
 
-[[Setting]] characters, sorted by gender
+This category sorts characters by their gender
 
 ![[Female Characters]]
 

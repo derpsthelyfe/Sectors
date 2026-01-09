@@ -1,6 +1,6 @@
 in: [[World]]
 #Category 
 
-A categorization of geographical occurrences and concepts in [[Setting]]
+A categorization of geographical occurrences and concepts in [[Articles/The Sectors|The Sectors]]
 
 ![[Locations]]

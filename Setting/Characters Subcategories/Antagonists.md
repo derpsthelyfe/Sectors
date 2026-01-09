@@ -1,7 +1,7 @@
 in: [[Characters]]
 #Category 
 
-A list of all the antagonists of [[Setting/Characters Subcategories/Characters by Group Subcategories/The Party]] and their allies
+A list of all the antagonists of [[PCS]] and their allies
 
 See also [[Antagonist Groups]]
 

@@ -1,7 +1,7 @@
-Wiki for [[Story Name]]
+Wiki for [[The Story]]
 
 
-* Everything related to [[Story Name]]
+* Everything related to [[The Story]]
 	* Plot
 		* 
 	* Setting

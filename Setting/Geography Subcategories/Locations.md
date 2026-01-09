@@ -3,4 +3,6 @@ in: [[Geography]]
 
 Various locations that have been shown or mentioned
 
-* [[Setting]]
+![[Backstory Locations]]
+
+![[Setting/Geography Subcategories/Locations Subcategories/The Sectors|The Sectors]]

@@ -1,4 +1,4 @@
 in: [[Animals]]
 #Category 
 
-List of [[Pet]]
+List of [[Pet|Pets]]

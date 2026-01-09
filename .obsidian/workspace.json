@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d750067db06aae1f",
+        "id": "5d271e049e685bf3",
         "type": "tabs",
         "children": [
           {
-            "id": "6a5d3a0dde5f215f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Setting/Characters Subcategories/Characters by Type Subcategories/Anthropomorphic Characters.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Anthropomorphic Characters"
-            }
-          },
-          {
-            "id": "1e73fe85838794d0",
+            "id": "8dc016a69290376d",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -40,57 +16,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "32dd95e474ec1190",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Setting/History Subcategories/Artifacts.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Artifacts"
-            }
-          },
-          {
-            "id": "71aba441825a75f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Categories Subcategories/List.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "List"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "species",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -143,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -163,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Categories/Characters Category/NPCS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for NPCS"
+              "title": "Backlinks"
             }
           },
           {
@@ -252,36 +179,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "1e73fe85838794d0",
+  "active": "8dc016a69290376d",
   "lastOpenFiles": [
-    "Welcome.md",
-    "Templates/Article Template.md",
+    "Setting/Characters Subcategories/Characters by Gender Subcategories/Transgender Characters.md",
+    "Kirby (World).md",
+    "Nintendo Worlds.md",
     "Setting/Characters Subcategories/Characters by Type Subcategories/Anthropomorphic Characters.md",
-    "Categories Subcategories/List.md",
-    "Categories Subcategories/Classifications.md",
-    "Categories Subcategories/Lists/Animal Species.md",
-    "Setting/Biology Subcategories/Animal Species.md",
-    "Setting/Society and Culture Subcategories/Terms.md",
-    "Setting/Society and Culture Subcategories/Weapons Subcategories",
-    "Setting/Society and Culture.md",
-    "Setting/Society and Culture Subcategories/Weapons.md",
-    "Setting/Society and Culture Subcategories/Terms Subcategories",
-    "Setting/Society and Culture Subcategories/Organizations.md",
-    "Setting/Society and Culture Subcategories/Organizations Subcategories/Antagonist Groups.md",
-    "Setting/Society and Culture Subcategories/Organizations Subcategories/Backstory Groups.md",
-    "Setting/Biology.md",
-    "Setting/Characters.md",
+    "Articles/Ursine.md",
+    "Articles/Warhammer 40K.md",
+    "Articles/Daemonette.md",
+    "Articles/Engarda.md",
+    "Articles/Feywilds.md",
+    "Articles/Elemental Plane.md",
+    "Articles/Abyss.md",
     "Articles/The Party.md",
-    "Setting/World.md",
-    "Articles/Story Name.md",
-    "Articles/Setting.md",
+    "Articles/Tundra.md",
+    "Articles/Maiden of the Black Womb.md",
+    "Articles/Maiden of Iron.md",
+    "Articles/The Citadel.md",
+    "Setting/Characters Subcategories/Characters by Gender Subcategories/Female Characters.md",
+    "Articles/Maya O'Sota.md",
+    "Setting/Characters Subcategories/Characters by Group Subcategories/The Party.md",
+    "Articles/Usukan.md",
+    "Articles/Spine.md",
+    "Articles/Sector 12.md",
+    "Articles/Sector 9.md",
+    "Articles/Sector 6.md",
+    "Articles/Sector 4.md",
     "Articles/Poison.md",
-    "Setting/Geography Subcategories/Locations.md",
-    "Setting/Biology Subcategories/Races.md",
-    "Articles/Humans.md",
-    "Setting/Biology Subcategories/Substances Subcategories/Chemicals Subcategories/Chemical Weapons.md",
-    "Setting/Biology Subcategories/Substances Subcategories/Chemicals Subcategories/Drugs.md",
-    "Setting/Society and Culture Subcategories/Abilities.md",
+    "Setting/Society and Culture Subcategories/Weapons Subcategories",
+    "Setting/Society and Culture Subcategories/Terms Subcategories",
     "Setting/Society and Culture Subcategories/Abilities Subcategories",
     "Setting/Society and Culture Subcategories/Organizations Subcategories",
     "Setting/Society and Culture Subcategories/Occupations Subcategories",

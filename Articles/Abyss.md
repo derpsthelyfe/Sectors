@@ -1,4 +1,4 @@
 in: [[Setting/Geography Subcategories/Locations Subcategories/Planes|Planes]]
-#Location 
+#Location #Stub
 
 Magic consuming realm

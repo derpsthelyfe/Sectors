@@ -1,0 +1,3 @@
+in:[[Deceased Characters]] [[Female Characters]] [[Transgender Characters]]
+#Character 
+Engarda was [[Tundra]] First PC in [[Season 6]]. She was a [[Warden]] who was originally a [[Daemonette]] but became a [[Widaling]] and devout worshiper of [[Wida]]. She Took blood from [[Maiden of the Black Womb]] and by doing so declared war on [[The Citadel]]. She then died by [[Kumiko]] after summoning [[Wida]]. This caused [[The Void Tornado]].

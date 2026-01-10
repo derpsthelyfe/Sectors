@@ -1,4 +1,4 @@
-in: [[Setting/Geography Subcategories/Locations Subcategories/Planes|Planes]]
+in: [[Planes|Planes]]
 #Location #Stub 
 
 Also known as the Shadowfell

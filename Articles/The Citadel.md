@@ -1,4 +1,4 @@
-in:[[Setting/Geography Subcategories/Locations Subcategories/The Sectors Subcategories/Sector 11|Sector 11]]
+in:[[Setting info/Geography Subcategories/Locations Subcategories/The Sectors Subcategories/Sector 11|Sector 11]]
 #Location
 
 3 primary gods. Each has own origins

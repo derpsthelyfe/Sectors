@@ -3,13 +3,13 @@ Wiki for [[The Story]]
 
 * Everything related to [[The Story]]
 	* Plot
-		* 
+		* ![[Story]]
 	* Setting
 		* ![[World]]
 
 * Meta
-	* Articles/files
+	* Wiki/articles/files
 		* ![[Classifications]]
 	* Homebrew
-		* [[Homebrew]]
+		* ![[Homebrew]]
 

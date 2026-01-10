@@ -1,3 +1,3 @@
-in: [[Setting info/Geography Subcategories/Locations Subcategories/The Sectors|The Sectors]]
+in: [[Setting Info/Geography Subcategories/Locations Subcategories/The Sectors|The Sectors]]
 #Location #Stub
 

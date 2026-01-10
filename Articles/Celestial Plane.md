@@ -1,4 +1,4 @@
 in: [[Planes|Planes]]
 #Location #Stub
 
-Presumably where Celestials hang out
+Presumably where [[Celestials]] hang out

@@ -1,5 +1,7 @@
-in:[[Setting info/Geography Subcategories/Locations Subcategories/The Sectors Subcategories/Sector 11|Sector 11]]
+in:[[Setting Info/Geography Subcategories/Locations Subcategories/The Sectors Subcategories/Sector 11|Sector 11]]
 #Location
+
+The Capital
 
 3 primary gods. Each has own origins
 God: [[Maiden of Iron]] 

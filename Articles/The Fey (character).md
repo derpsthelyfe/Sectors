@@ -1,4 +1,4 @@
-in: [[Setting info/Geography Subcategories/Locations Subcategories/The Sectors|The Sectors]], [[Female Characters]]
+in: [[Setting Info/Geography Subcategories/Locations Subcategories/The Sectors|The Sectors]], [[Female Characters]]
 #Location #Stub
 
 See also: [[The fey (race)]]

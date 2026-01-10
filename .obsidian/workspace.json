@@ -11,10 +11,48 @@
             "id": "8dc016a69290376d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Articles/Celestial (Trait).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Celestial (Trait)"
+            }
+          },
+          {
+            "id": "095e85116e72a024",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Articles/True Damage.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "True Damage"
             }
           }
         ]
@@ -36,7 +74,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -50,7 +88,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -70,8 +108,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,43 +216,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "8dc016a69290376d",
+  "active": "1d2787729d57a2d9",
   "lastOpenFiles": [
-    "Wiki Info/Classifications Subcategories/List.md",
-    "Wiki Info/Classifications Subcategories/Categories.md",
-    "Wiki Info/Classifications.md",
-    "Wiki Info/Classifications Subcategories",
-    "Wiki Info",
-    "Templates/Session Template.md",
-    "Setting info/Geography Subcategories/Locations Subcategories/The Sectors Subcategories/Sector 9.md",
-    "Setting info/Geography Subcategories/Locations Subcategories/The Sectors Subcategories/Sector 8.md",
-    "Setting info/Geography Subcategories/Locations Subcategories/The Sectors Subcategories/Sector 7.md",
-    "Setting info/Geography Subcategories/Locations Subcategories/The Sectors Subcategories/Sector 6.md",
-    "Setting info/Geography Subcategories/Locations Subcategories/The Sectors Subcategories/Sector 5.md",
-    "Setting info/Geography Subcategories/Locations Subcategories/The Sectors Subcategories/Sector 4.md",
-    "Setting info/Geography Subcategories/Locations Subcategories/The Sectors Subcategories/Sector 3.md",
-    "Setting info/Geography Subcategories/Locations Subcategories/The Sectors Subcategories/Sector 2.md",
-    "Setting info/Geography Subcategories/Locations Subcategories/The Sectors Subcategories/Sector 13.md",
-    "Setting info/Geography Subcategories/Locations Subcategories/The Sectors Subcategories/Sector 12.md",
-    "Setting info/Geography Subcategories/Locations Subcategories/The Sectors Subcategories/Sector 11.md",
-    "Setting info/Geography Subcategories/Locations Subcategories/The Sectors Subcategories/Sector 10.md",
-    "Setting info/Geography Subcategories/Locations Subcategories/The Sectors Subcategories/Sector 1.md",
-    "Setting info/Characters Subcategories/Characters by Type Subcategories/Animals Subcategories/Talking Animals.md",
-    "Setting info/Characters Subcategories/Characters by Type Subcategories/Animals Subcategories/Pets.md",
-    "Setting info/Biology Subcategories/Substances Subcategories/Chemicals Subcategories/Drugs.md",
-    "Setting info/Biology Subcategories/Substances Subcategories/Chemicals Subcategories/Chemical Weapons.md",
-    "Setting info/Society and Culture Subcategories/Terms Subcategories/Catalysts.md",
-    "Setting info/Society and Culture Subcategories/Organizations Subcategories/Backstory Groups.md",
-    "Setting info/Society and Culture Subcategories/Organizations Subcategories/Antagonist Groups.md",
-    "Setting info/History Subcategories/Events Subcategories/Incidents.md",
-    "Setting info/History Subcategories/Events Subcategories/Battles.md",
-    "Setting info/Geography Subcategories/Locations Subcategories/The Sectors Subcategories",
-    "Setting info/Characters Subcategories/Characters by Type Subcategories/Animals Subcategories",
-    "Setting info/Biology Subcategories/Substances Subcategories/Chemicals Subcategories",
-    "Setting info/Society and Culture Subcategories/Terms Subcategories",
-    "Setting info/Society and Culture Subcategories/Organizations Subcategories",
-    "Setting info/History Subcategories/Events Subcategories",
-    "Setting info/Geography Subcategories/Locations Subcategories",
-    "Setting info/Characters Subcategories/Characters by Type Subcategories"
+    "Articles/Traits.md",
+    "Articles/Celestial (Trait).md",
+    "Articles/Rault of Redburn.md",
+    "Articles/Rault's ascension.md",
+    "Articles/The Sol.md",
+    "Articles/The Void Tornado.md",
+    "Articles/Demonic (Trait).md",
+    "Articles/Lambda.md",
+    "Welcome.md",
+    "Articles/Fey (Trait).md",
+    "Articles/Conditions.md",
+    "Articles/Winda.md",
+    "Articles/Sector 8.md",
+    "2026-01-10.md",
+    "Articles/Sector 9.md",
+    "Articles/The Fey (character).md",
+    "Articles/The Party.md",
+    "Articles/The Citadel.md",
+    "Articles/The Obsidian Citadel.md",
+    "Articles/Catalyst.md",
+    "Articles/Celestial Plane.md",
+    "Articles/Celestials.md",
+    "Articles/Sacrifice.md",
+    "Articles/Boast.md",
+    "Articles/Maya O'Sota.md",
+    "Articles/Miracle.md",
+    "Homebrew Info/Homebrew Subcategories/Combat Subcategories",
+    "Templates/Articles",
+    "Articles/Untitled",
+    "Homebrew Info/Homebrew Subcategories/Untitled",
+    "Homebrew Info/Homebrew Subcategories",
+    "Setting/Society and Culture Subcategories/Weapons Subcategories",
+    "Setting/Society and Culture Subcategories/Terms Subcategories",
+    "Setting/Society and Culture Subcategories/Abilities Subcategories",
+    "Setting/Society and Culture Subcategories/Organizations Subcategories",
+    "Setting/Society and Culture Subcategories/Occupations Subcategories"
   ]
 }

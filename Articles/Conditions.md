@@ -1,0 +1,4 @@
+in:[[]]
+#Stub
+
+Broken Ribs: -2 AC and dex saves, half movement speed, no reactions, and may only take an action or bonus action (but not both) in a turn. Halved attacks (rounded up)

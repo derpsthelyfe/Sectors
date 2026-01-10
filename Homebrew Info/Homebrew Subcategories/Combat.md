@@ -3,4 +3,5 @@ in: [[Homebrew]]
 
 This is a list of rules that relate to combat.
 
+* ![[Equipment|Equipment]]
 * [[Catalyst]]

@@ -1,5 +1,5 @@
 in:[[]]
-#Stub
+#List 
 
 Miracles are activated when a creature lands a critical hit against you. or you expend a death save. When damaged while unconscious its treated as 1 activation of Miracle (as if you were crit)
 

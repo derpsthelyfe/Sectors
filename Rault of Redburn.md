@@ -1,0 +1,1 @@
+Rault of Redburn is one of [[Platinum/Biglad]]'s characters, First appearing in [[Season 4]]. Though many notable things happened after [[Rault's ascension]] he for a time became the god of sectors.

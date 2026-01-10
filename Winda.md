@@ -1,0 +1,1 @@
+Winda was [[Tundra]]'s first character in [[Season 4]] 

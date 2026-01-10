@@ -1,0 +1,1 @@
+The Void Tornado was the consequence on [[Kumiko]], [[The Kingdom's Wall]], and [[Usukan]] fighting. After Kumiko killed [[Engarda]] and [[Wida]] after [[Rault of Redburn]] attempted to summon [[Usukan]] to kill the [[Maiden of the Black Womb]] and end [[The Rain of Fire]].

@@ -1,9 +1,10 @@
-in: [[Homebrew]]
+in: [[Combat]]
 #Category 
 
-This is a list of rules that relate to equipment [[Sectors/Articles/Set Bonuses|Set Bonuses]]
+This is a list of rules that relate to equipment
 
-* [[Traits]]
-* [[Sectors/Articles/Set Bonuses|Set Bonuses]]
-* ![[Sectors/Setting Info/Society and Culture Subcategories/Weapons|Weapons]]
+* [[Articles/Traits]]
+* ![[Setting Info/Society and Culture Subcategories/Terms Subcategories/Catalysts|Catalysts]]
+* [[Articles/Set Bonuses|Set Bonuses]]
+* ![[Setting Info/Society and Culture Subcategories/Weapons|Weapons]]
 * 

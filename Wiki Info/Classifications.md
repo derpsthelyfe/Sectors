@@ -1,6 +1,6 @@
 #Category 
 
-This is the categories of the list of types of files
+This is the category of the list of types of files
 
 ![[Categories]]
 

@@ -3,4 +3,4 @@ in: [[Society and Culture]]
 
 This category is for terms used in [[The Story]]
 
-![[Catalysts]]
+![[Setting Info/Society and Culture Subcategories/Terms Subcategories/Catalysts]]

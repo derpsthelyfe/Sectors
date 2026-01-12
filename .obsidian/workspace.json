@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5d271e049e685bf3",
+        "id": "00872c8db0c9ba6d",
         "type": "tabs",
         "children": [
-          {
-            "id": "8dc016a69290376d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Articles/Celestial (Trait).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Celestial (Trait)"
-            }
-          },
           {
             "id": "095e85116e72a024",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/True Damage.md",
+                "file": "Articles/Boast Catalyst.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "True Damage"
+              "title": "Boast Catalyst"
             }
           }
         ]
@@ -87,8 +63,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "todo",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -213,46 +189,47 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1d2787729d57a2d9",
+  "active": "095e85116e72a024",
   "lastOpenFiles": [
+    "Articles/Miracle Catalyst.md",
+    "Articles/Sacrifice Catalyst.md",
+    "Articles/Boast Catalyst.md",
+    "Articles/Set Bonuses.md",
+    "Setting Info/Society and Culture.md",
+    "Setting Info/Society and Culture Subcategories/Terms.md",
+    "Setting Info/Society and Culture Subcategories/Terms Subcategories/Catalysts.md",
+    "Homebrew Info/Homebrew Subcategories/Combat Subcategories/Equipment.md",
+    "Templates/Articles/Catalyst Article Template.md",
+    "Homebrew Info/Homebrew Subcategories/Combat Subcategories/Conditions.md",
+    "Articles/Pet.md",
+    "Articles/The Story.md",
     "Articles/Traits.md",
-    "Articles/Celestial (Trait).md",
-    "Articles/Rault of Redburn.md",
-    "Articles/Rault's ascension.md",
-    "Articles/The Sol.md",
-    "Articles/The Void Tornado.md",
-    "Articles/Demonic (Trait).md",
-    "Articles/Lambda.md",
-    "Welcome.md",
-    "Articles/Fey (Trait).md",
-    "Articles/Conditions.md",
-    "Articles/Winda.md",
-    "Articles/Sector 8.md",
-    "2026-01-10.md",
-    "Articles/Sector 9.md",
-    "Articles/The Fey (character).md",
-    "Articles/The Party.md",
-    "Articles/The Citadel.md",
-    "Articles/The Obsidian Citadel.md",
     "Articles/Catalyst.md",
-    "Articles/Celestial Plane.md",
-    "Articles/Celestials.md",
-    "Articles/Sacrifice.md",
-    "Articles/Boast.md",
-    "Articles/Maya O'Sota.md",
-    "Articles/Miracle.md",
+    "Articles/Blank Catalysts.md",
+    "Articles/Undead Catalysts.md",
+    "Articles/Daemonette.md",
+    "Articles/Poison.md",
+    "Articles/Plants and Fungi.md",
+    "Articles/Abyss.md",
+    "Articles/Feywilds.md",
+    "Articles/The Hells.md",
+    "Articles/Underdark.md",
+    "Articles/Sector 1.md",
+    "Articles/Broken Ribs.md",
+    "Articles/Primordial Catalysts.md",
+    "Homebrew Info/Homebrew Subcategories/Combat Subcategories/Equipment Subcategories",
+    "Catalyst",
+    "Setting Info/Society and Culture Subcategories/Terms Subcategories/Catalysts Subcategories",
+    "Sectors/Articles",
+    "Sectors",
     "Homebrew Info/Homebrew Subcategories/Combat Subcategories",
     "Templates/Articles",
     "Articles/Untitled",
     "Homebrew Info/Homebrew Subcategories/Untitled",
-    "Homebrew Info/Homebrew Subcategories",
-    "Setting/Society and Culture Subcategories/Weapons Subcategories",
-    "Setting/Society and Culture Subcategories/Terms Subcategories",
-    "Setting/Society and Culture Subcategories/Abilities Subcategories",
-    "Setting/Society and Culture Subcategories/Organizations Subcategories",
-    "Setting/Society and Culture Subcategories/Occupations Subcategories"
+    "Homebrew Info/Homebrew Subcategories"
   ]
 }

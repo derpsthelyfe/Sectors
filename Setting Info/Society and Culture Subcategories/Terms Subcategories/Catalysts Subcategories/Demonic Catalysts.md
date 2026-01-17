@@ -1,4 +1,4 @@
 in: [[Catalysts]]
 #Category 
 
-This category contains a list of all the [[Articles/Demonic Catalysts|Demonic Catalysts]]
+This category contains a list of all the [[Demonic Catalyst|Demonic Catalysts]]

@@ -1,4 +1,4 @@
 in: [[Catalysts]]
 #Category 
 
-This category contains a list of all the [[Articles/Draconic Catalysts|Draconic Catalysts]]
+This category contains a list of all the [[Draconic Catalyst|Draconic Catalysts]]

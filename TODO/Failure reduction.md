@@ -1,0 +1,1 @@
+Increase crit range, but no crit damage.

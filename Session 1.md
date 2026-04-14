@@ -1,7 +1,7 @@
 1/16/2026
 
 Wake up
-Party is [[Liliumn]], [[Uyuru Shi]], Merc, and [[Icoro]]
+Party is [[Liliumn]], [[Uyuru Shi]], [[Milia]], and [[Icoro]]
 * Uyuru Shi (Andrew) is our guide
 * Tablet is obtained
 

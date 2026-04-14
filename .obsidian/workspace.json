@@ -30,8 +30,81 @@
               "icon": "lucide-file",
               "title": "Boast Catalyst"
             }
+          },
+          {
+            "id": "7e4829e51f46b2d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Draglet.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Draglet"
+            }
+          },
+          {
+            "id": "6d773d2ab4db973b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Milia.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Milia"
+            }
+          },
+          {
+            "id": "ed1701f292a11472",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Session 2"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -63,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "todo",
+                "query": "sess",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +157,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -193,11 +267,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "095e85116e72a024",
+  "active": "ed1701f292a11472",
   "lastOpenFiles": [
+    "Marvin the Mystic.md",
+    "Session 2.md",
+    "Session 1.md",
+    "TODO/Dungeon Mechanics.md",
+    "Milia.md",
+    "Draglet.md",
+    "Articles/Boast Catalyst.md",
+    "Heavy whip of suffering.md",
+    "Liliumn.md",
+    "Uyuru Shi.md",
+    "Desolate.md",
+    "Spellcasting.md",
+    "TODO/Icoro.md",
+    "Corrupted Cure.md",
     "Articles/Miracle Catalyst.md",
     "Articles/Sacrifice Catalyst.md",
-    "Articles/Boast Catalyst.md",
     "Articles/Set Bonuses.md",
     "Setting Info/Society and Culture.md",
     "Setting Info/Society and Culture Subcategories/Terms.md",
@@ -208,19 +295,6 @@
     "Articles/Pet.md",
     "Articles/The Story.md",
     "Articles/Traits.md",
-    "Articles/Catalyst.md",
-    "Articles/Blank Catalysts.md",
-    "Articles/Undead Catalysts.md",
-    "Articles/Daemonette.md",
-    "Articles/Poison.md",
-    "Articles/Plants and Fungi.md",
-    "Articles/Abyss.md",
-    "Articles/Feywilds.md",
-    "Articles/The Hells.md",
-    "Articles/Underdark.md",
-    "Articles/Sector 1.md",
-    "Articles/Broken Ribs.md",
-    "Articles/Primordial Catalysts.md",
     "Homebrew Info/Homebrew Subcategories/Combat Subcategories/Equipment Subcategories",
     "Catalyst",
     "Setting Info/Society and Culture Subcategories/Terms Subcategories/Catalysts Subcategories",
